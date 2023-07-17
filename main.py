@@ -13,3 +13,6 @@ class Calcualtor:
 class App:
     def __init__(self):
         pass
+
+class AppNewFeature:
+    pass
